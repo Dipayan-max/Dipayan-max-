@@ -28,25 +28,25 @@
 
 ## 📊 GitHub Stats
 
-![Dipayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Dipayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipayan-max&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dipayan-max&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipayan-max&theme=react-dark)
 
 ---
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipayan-max&layout=compact&theme=radical)
 
 ---
 
