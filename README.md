@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Dipayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipayan-max&show_icons=true&theme=radical)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dipayan-max&theme=radical)
@@ -41,12 +35,6 @@
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipayan-max&theme=react-dark)
-
----
-
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipayan-max&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
