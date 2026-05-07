@@ -46,7 +46,7 @@
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipayan-max&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipayan-max&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
